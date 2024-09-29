@@ -1,0 +1,10 @@
+.success-card{
+    padding: 20px 15px 35px 20px;
+    text-align: center;
+    /* height: 500px !important; */
+    border-radius: 0px !important;
+    border-color: transparent !important;
+    background: #fff  !important;
+    color: white !important;
+    box-shadow: 0 10px 20px 0 #0f0f1054;
+}
